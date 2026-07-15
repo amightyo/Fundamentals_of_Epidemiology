@@ -1,0 +1,136 @@
+---
+title: "Day 2: Infectious Diseases"
+author: "Dr. Itauma Itauma"
+format: html
+editor: visual
+---
+
+## Epidemiologic Triad and Chain of Infection
+
+The **epidemiologic triad** is a model used to explain how infectious diseases occur and spread. It consists of three components:
+
+- **Agent:** The cause of the disease, such as a virus, bacterium, parasite, or fungus.
+
+- **Host:** The person or organism that can become infected. Factors such as age, immune status, genetics, and health behaviors influence susceptibility.
+
+- **Environment:** External conditions that affect disease transmission, including climate, sanitation, population density, and access to healthcare.
+
+The **chain of infection** describes the sequence through which an infectious disease spreads:
+
+1.  Infectious agent
+
+2.  Reservoir (where the agent normally lives)
+
+3.  Portal of exit
+
+4.  Mode of transmission
+
+5.  Portal of entry
+
+6.  Susceptible host
+
+Public health interventions aim to break one or more links in this chain to prevent disease transmission.
+
+## Comparison of Endemic, Outbreak, Epidemic, and Pandemic
+
+| Term | Definition | Example |
+|----|----|----|
+| **Endemic** | A disease that is consistently present within a particular geographic area or population. | Malaria in parts of sub-Saharan Africa. |
+| **Outbreak** | A sudden increase in disease cases above what is normally expected in a localized area. | A foodborne illness affecting attendees at a community event. |
+| **Epidemic** | A larger-than-expected increase in disease cases affecting a region or country. | The 2014 Ebola epidemic in West Africa. |
+| **Pandemic** | An epidemic that spreads across multiple countries or continents and affects a large number of people. | The COVID-19 pandemic beginning in 2020. |
+
+## The Seven Steps of an Outbreak Investigation
+
+1.  **Prepare for fieldwork** by gathering supplies, reviewing background information, and organizing the investigation team.
+
+2.  **Establish that an outbreak exists** by determining whether the number of cases exceeds the expected level.
+
+3.  **Verify the diagnosis** through laboratory testing and clinical evaluation.
+
+4.  **Define and identify cases** by creating a case definition and conducting active case finding.
+
+5.  **Describe the outbreak** by analyzing cases according to time, place, and person.
+
+6.  **Develop and evaluate hypotheses** about the source and mode of transmission using epidemiologic studies and laboratory evidence.
+
+7.  **Implement control measures and communicate findings** to reduce disease transmission and inform public health officials and the public.
+
+## Worked Example: Calculating an Attack Rate
+
+**Scenario:** During a company picnic, **80 people** attended. Within two days, **20 people** developed symptoms of food poisoning.
+
+The attack rate is calculated as:
+
+$$\text{Attack Rate} =
+\frac{\text{Number of new cases}}{\text{Population at risk}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Attack Rate} =
+\frac{20}{80}
+\times 100
+= 25\%$$
+
+**Answer:** The attack rate is **25%**, meaning that one out of every four people who attended the picnic became ill.
+
+# Reflection: What Can Modern Epidemiologists Learn from John Snow?
+
+John Snow is widely regarded as one of the founders of modern epidemiology because he demonstrated the importance of using data and careful observation to solve public health problems. During the 1854 cholera outbreak in London, Snow mapped the locations of cholera cases and identified a cluster around the Broad Street water pump. Although the germ theory of disease had not yet been fully accepted, he used evidence rather than assumptions to conclude that contaminated water was the likely source of the outbreak. His work showed that collecting accurate data, identifying patterns, and testing hypotheses are essential components of epidemiologic investigations.
+
+Modern epidemiologists continue to apply these same principles when investigating disease outbreaks. Today, they have access to advanced technologies such as geographic information systems (GIS), electronic health records, laboratory testing, and statistical software, but the basic process remains the same: collect reliable data, analyze it carefully, and use the results to guide public health action. Snow's investigation also demonstrated the value of acting quickly. Removing the handle from the Broad Street pump helped reduce exposure to contaminated water and likely prevented additional illnesses. This illustrates that timely interventions can save lives even before every scientific question has been answered.
+
+Another important lesson from John Snow is the importance of challenging widely accepted beliefs when evidence suggests otherwise. At the time, many people believed cholera spread through "bad air," yet Snow's investigation supported a different explanation. His willingness to question conventional thinking reminds modern epidemiologists to rely on scientific evidence and remain open to new findings. Overall, John Snow's work continues to influence public health by emphasizing data-driven decision-making, critical thinking, and rapid response to emerging health threats.
+
+## Challenge Question
+
+### 1. Attack rate among those who ate the potato salad
+
+The attack rate is calculated as:
+
+$$\text{Attack Rate} =
+\frac{\text{Number of new cases}}{\text{Population at risk}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Attack Rate} =
+\frac{54}{180}
+\times 100
+= 30\%$$
+
+**Answer:** The attack rate among those who ate the potato salad is **30%**.
+
+------------------------------------------------------------------------
+
+### 2. Attack rate among those who did not eat the potato salad
+
+Using the same formula:
+
+$$\text{Attack Rate} =
+\frac{6}{120}
+\times 100
+= 5\%$$
+
+**Answer:** The attack rate among those who did not eat the potato salad is **5%**.
+
+------------------------------------------------------------------------
+
+### 3. Preliminary conclusion
+
+The attack rate is much higher among people who ate the potato salad (30%) than among those who did not (5%). This suggests that eating the potato salad **may be associated with** the illness and that it is a likely source of the outbreak. However, these results alone do not prove that the potato salad caused the illnesses.
+
+------------------------------------------------------------------------
+
+### 4. Additional information needed
+
+Before concluding that the potato salad caused the outbreak, I would want additional information, including:
+
+- Whether those who became ill had similar symptoms and the same diagnosis.
+- The time between eating the food and the onset of illness to determine whether it matches the expected incubation period.
+- Whether people who became ill also consumed other foods served at the picnic.
+- Laboratory testing of food samples and stool samples from affected individuals to identify the pathogen.
+- Information about how the potato salad was prepared, stored, and served, including whether it may have been improperly refrigerated or contaminated.
+
+Collecting this additional evidence would help determine whether the potato salad was truly the source of the outbreak rather than simply being associated with the illnesses.
