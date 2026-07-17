@@ -1,0 +1,215 @@
+---
+title: "Day 3: Measuring Disease"
+author: "Dr. Itauma Itauma"
+format: html
+editor: visual
+---
+
+1.  Definitions of incidence and prevalence.
+
+2.  The bathtub analogy (create your own diagram if you wish).
+
+3.  Worked examples of cumulative incidence and point prevalence.
+
+4.  A comparison table of incidence versus prevalence.
+
+5.  A short reflection (300–500 words):
+
+> **"Why can prevalence be misleading when studying disease causation?"**
+
+# Incidence and Prevalence
+
+## Definitions of Incidence and Prevalence
+
+**Incidence** is the number of **new cases** of a disease that occur in a specified population during a defined period of time. It measures the **risk of developing** a disease and is commonly used to study disease causation and evaluate prevention strategies.
+
+**Prevalence** is the **total number of existing cases** (both new and pre-existing) of a disease in a population at a specific point in time or over a specified period. It measures the **burden of disease** within a population and is useful for planning healthcare services and allocating resources.
+
+------------------------------------------------------------------------
+
+## The Bathtub Analogy
+
+The bathtub analogy is a simple way to understand the relationship between incidence and prevalence.
+
+- The **water flowing into the bathtub** represents **incidence**, or the number of new cases occurring over time.
+- The **water already in the bathtub** represents **prevalence**, or the total number of people currently living with the disease.
+- The **drain** represents people leaving the prevalence pool because they recover or die.
+
+If more water flows into the tub than drains out, the water level rises, meaning prevalence increases. Likewise, prevalence may decrease if fewer new cases occur or if more people recover or die.
+
+------------------------------------------------------------------------
+
+## Worked Example: Cumulative Incidence
+
+**Scenario:** A community has **2,000** adults who are free of influenza at the beginning of the winter season. During the next three months, **80** people develop influenza.
+
+The cumulative incidence is calculated as:
+
+$$\text{Cumulative Incidence} =
+\frac{\text{Number of new cases during the period}}
+{\text{Population at risk at the beginning}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Cumulative Incidence} =
+\frac{80}{2000}
+\times 100
+=
+4\%$$
+
+**Answer:** The cumulative incidence of influenza over the three-month period is **4%**.
+
+------------------------------------------------------------------------
+
+## Worked Example: Point Prevalence
+
+**Scenario:** On July 1, a town has **5,000** residents. On that date, **250** residents have diabetes.
+
+Point prevalence is calculated as:
+
+$$\text{Point Prevalence} =
+\frac{\text{Existing cases at a specific point in time}}
+{\text{Total population}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Point Prevalence} =
+\frac{250}{5000}
+\times 100
+=
+5\%$$
+
+**Answer:** The point prevalence of diabetes on July 1 is **5%**.
+
+------------------------------------------------------------------------
+
+## Comparison of Incidence and Prevalence
+
+| Characteristic | Incidence | Prevalence |
+|----------------------------|---------------------|-----------------------|
+| Measures | New cases | Existing cases |
+| Time component | Yes | Point or period |
+| Indicates | Risk of developing disease | Burden of disease |
+| Numerator | New cases | All existing cases |
+| Denominator | Population at risk | Total population |
+| Best used for | Studying disease causes and prevention | Healthcare planning and resource allocation |
+| Influenced by disease duration | No | Yes |
+
+------------------------------------------------------------------------
+
+## Reflection: Why Can Prevalence Be Misleading When Studying Disease Causation?
+
+Prevalence is a valuable measure because it describes how common a disease is within a population, but it can be misleading when researchers are trying to understand what causes a disease. Unlike incidence, which measures only new cases, prevalence includes everyone who currently has the disease regardless of when it began. As a result, prevalence is influenced not only by the rate of new cases but also by how long people live with the disease. A disease with a low incidence but long duration can have a high prevalence, while a disease with a high incidence but short duration may have a relatively low prevalence.
+
+For example, diabetes often has a high prevalence because people typically live with the disease for many years. This does not necessarily mean that many new cases are occurring each year. In contrast, influenza may have a high incidence during flu season because many people become infected over a short period, but its prevalence remains relatively low because most individuals recover within a few weeks. Looking only at prevalence could therefore give an inaccurate impression of disease risk.
+
+Prevalence can also be affected by improvements in medical treatment. If new treatments help people survive longer without curing the disease, prevalence will increase even if incidence remains unchanged. Without considering incidence, researchers might mistakenly conclude that the disease is becoming more common when, in reality, people are simply living longer with it. Similarly, changes in mortality or recovery rates can alter prevalence without reflecting changes in disease occurrence.
+
+For these reasons, epidemiologists generally rely on incidence when studying disease causation because it measures the occurrence of new cases and better reflects the relationship between risk factors and disease development. Prevalence is more appropriate for estimating the overall burden of disease and planning healthcare services. Together, incidence and prevalence provide complementary information, but interpreting prevalence alone can lead to incorrect conclusions about the causes of disease.
+
+# Professor's Challenge
+
+Let's see if you can apply today's concepts.
+
+## Scenario
+
+A city has **100,000 residents**.
+
+On **January 1, 2026**, **2,000 people** already have asthma.
+
+During **2026**, **500 new cases** of asthma are diagnosed.
+
+Assume no one recovers or dies during the year.
+
+### Questions
+
+1.  What is the **point prevalence** of asthma on January 1, 2026?
+
+2.  What is the **cumulative incidence** of asthma during 2026? *(Remember to use the population at risk.)*
+
+3.  How many people have asthma on December 31, 2026?
+
+4.  What is the **point prevalence** on December 31, 2026?
+
+5.  Explain, in your own words, why the prevalence changed during the year even though the incidence was relatively small.
+
+## 1. Point Prevalence on January 1, 2026
+
+The point prevalence is calculated as:
+
+$$\text{Point Prevalence} =
+\frac{\text{Existing cases}}{\text{Total population}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Point Prevalence} =
+\frac{2,000}{100,000}
+\times 100
+=
+2\%$$
+
+**Answer:** The point prevalence of asthma on **January 1, 2026** is **2%**.
+
+------------------------------------------------------------------------
+
+## 2. Cumulative Incidence During 2026
+
+The population at risk excludes people who already have asthma at the beginning of the year.
+
+$$\text{Population at risk} = 100,000 - 2,000 = 98,000$$
+
+The cumulative incidence is calculated as:
+
+$$\text{Cumulative Incidence} =
+\frac{\text{New cases during the year}}
+{\text{Population at risk}}
+\times 100$$
+
+Substituting the values:
+
+$$\text{Cumulative Incidence} =
+\frac{500}{98,000}
+\times 100
+\approx
+0.51\%$$
+
+**Answer:** The cumulative incidence of asthma during **2026** is **approximately 0.51%**.
+
+------------------------------------------------------------------------
+
+## 3. Number of People with Asthma on December 31, 2026
+
+Since no one recovered or died during the year:
+
+$$\text{Existing cases at year-end}
+=
+2,000 + 500
+=
+2,500$$
+
+**Answer:** **2,500 people** have asthma on **December 31, 2026**.
+
+------------------------------------------------------------------------
+
+## 4. Point Prevalence on December 31, 2026
+
+Using the updated number of existing cases:
+
+$$\text{Point Prevalence} =
+\frac{2,500}{100,000}
+\times 100
+=
+2.5\%$$
+
+**Answer:** The point prevalence of asthma on **December 31, 2026** is **2.5%**.
+
+------------------------------------------------------------------------
+
+## 5. Why Did the Prevalence Change?
+
+The prevalence increased during the year because the 500 new cases were added to the people who already had asthma at the beginning of the year. Since no one recovered or died, every new case remained part of the total number of existing cases. As a result, the number of people living with asthma increased from **2,000** to **2,500**, causing the prevalence to rise from **2%** to **2.5%**. Although the cumulative incidence was relatively small (about **0.51%**), prevalence reflects **all existing cases**, not just new ones. This example shows how prevalence can increase over time even when the number of new cases is relatively low, especially for chronic diseases that persist for many years.
+
+> Prevalence is a "snapshot" of disease burden, while incidence is a "movie" showing the appearance of new disease over time.
