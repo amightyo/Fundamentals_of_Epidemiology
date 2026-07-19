@@ -1,0 +1,297 @@
+---
+title: "Day 4 Measuring Death"
+author: "Dr. Itauma Itauma"
+format: html
+editor: visual
+---
+
+## Include:
+
+1.  Definitions of morbidity and mortality.
+
+2.  Worked examples for each mortality measure.
+
+3.  A comparison table of:
+
+```         
+- 
+
+-  Crude mortality rate
+
+- 
+
+-  Cause-specific mortality rate
+
+- 
+
+-  Age-specific mortality rate
+
+- 
+
+-  Infant mortality rate
+
+- 
+
+-  Case-fatality rate
+
+- 
+
+-  Proportionate mortality
+
+- 
+```
+
+7.  A one-page explanation:
+
+    > **"Why epidemiologists prefer age-adjusted mortality rates when comparing populations."**
+
+8.  Sketch a simple diagram illustrating why age structure can confound comparisons of crude mortality rates.
+
+# Professor's Challenge
+
+A country reports the following for the year 2026:
+
+- Population: **2,000,000**
+
+- Total deaths: **18,000**
+
+- Deaths from heart disease: **4,500**
+
+- Live births: **24,000**
+
+- Infant deaths (\<1 year): **120**
+
+- Confirmed cases of meningitis: **600**
+
+- Deaths from meningitis: **48**
+
+### Questions
+
+1.  Calculate the **crude mortality rate** (per 1,000 population).
+
+2.  Calculate the **cause-specific mortality rate for heart disease** (per 100,000 population).
+
+3.  Calculate the **infant mortality rate** (per 1,000 live births).
+
+4.  Calculate the **case-fatality rate for meningitis**.
+
+5.  Calculate the **proportionate mortality due to heart disease**.
+
+6.  Suppose another country has a lower crude mortality rate but a much younger population. Explain why comparing crude mortality rates alone could lead to a misleading conclusion.
+
+# Morbidity and Mortality
+
+## Definitions of Morbidity and Mortality
+
+**Morbidity** refers to the presence of disease, illness, injury, or other health conditions within a population. Measures of morbidity describe how frequently diseases occur and are commonly expressed using incidence and prevalence.
+
+**Mortality** refers to death within a population. Mortality measures describe the frequency and causes of death and are used to monitor population health, identify health priorities, and evaluate public health interventions.
+
+------------------------------------------------------------------------
+
+# Worked Examples of Mortality Measures
+
+## 1. Crude Mortality Rate
+
+**Scenario:** A city has a population of **500,000** people. During one year, **4,000** people die.
+
+The crude mortality rate is calculated as:
+
+$$\text{Crude Mortality Rate} =
+\frac{\text{Total deaths}}{\text{Total population}}
+\times 100,000$$
+
+Substituting the values:
+
+$$\frac{4,000}{500,000}\times100,000
+=800$$
+
+**Answer:** The crude mortality rate is **800 deaths per 100,000 population**.
+
+------------------------------------------------------------------------
+
+## 2. Cause-Specific Mortality Rate
+
+**Scenario:** In the same city, **500** deaths were due to heart disease.
+
+$$\text{Cause-Specific Mortality Rate}=
+\frac{500}{500,000}\times100,000
+=100$$
+
+**Answer:** The heart disease mortality rate is **100 deaths per 100,000 population**.
+
+------------------------------------------------------------------------
+
+## 3. Age-Specific Mortality Rate
+
+**Scenario:** There are **80,000** adults aged 65 years and older. During one year, **1,600** deaths occur in this age group.
+
+$$\text{Age-Specific Mortality Rate}=
+\frac{1,600}{80,000}\times100,000
+=2,000$$
+
+**Answer:** The mortality rate among adults aged 65 years and older is **2,000 deaths per 100,000 population**.
+
+------------------------------------------------------------------------
+
+## 4. Infant Mortality Rate
+
+**Scenario:** During one year, there are **8,000 live births** and **48 infant deaths** (before one year of age).
+
+$$\text{Infant Mortality Rate}=
+\frac{48}{8,000}\times1,000
+=6$$
+
+**Answer:** The infant mortality rate is **6 deaths per 1,000 live births**.
+
+------------------------------------------------------------------------
+
+## 5. Case-Fatality Rate
+
+**Scenario:** During an outbreak, **400** people are diagnosed with a disease, and **20** die from it.
+
+$$\text{Case-Fatality Rate}=
+\frac{20}{400}\times100
+=5\%$$
+
+**Answer:** The case-fatality rate is **5%**.
+
+------------------------------------------------------------------------
+
+## 6. Proportionate Mortality
+
+**Scenario:** During one year, **4,000** people die, and **500** of those deaths are due to heart disease.
+
+$$\text{Proportionate Mortality}=
+\frac{500}{4,000}\times100
+=12.5\%$$
+
+**Answer:** Heart disease accounts for **12.5%** of all deaths.
+
+------------------------------------------------------------------------
+
+# Comparison of Mortality Measures
+
+| Measure | Numerator | Denominator | Typical Multiplier | Purpose |
+|---------------|---------------|---------------|---------------|---------------|
+| **Crude Mortality Rate** | Total deaths | Total population | 100,000 | Measures overall mortality in a population |
+| **Cause-Specific Mortality Rate** | Deaths from a specific cause | Total population | 100,000 | Measures mortality due to a specific disease or cause |
+| **Age-Specific Mortality Rate** | Deaths within a specific age group | Population in that age group | 100,000 | Compares mortality among different age groups |
+| **Infant Mortality Rate** | Deaths among infants under 1 year | Live births | 1,000 | Measures infant survival and population health |
+| **Case-Fatality Rate** | Deaths among diagnosed cases | Total diagnosed cases | 100 | Measures disease severity |
+| **Proportionate Mortality** | Deaths from a specific cause | Total deaths | 100 | Shows the proportion of deaths due to a specific cause |
+
+------------------------------------------------------------------------
+
+# Why Epidemiologists Prefer Age-Adjusted Mortality Rates When Comparing Populations
+
+Age-adjusted mortality rates are preferred because they allow fair comparisons between populations that have different age structures. Age is one of the strongest predictors of death, and populations with a larger proportion of older adults naturally experience higher mortality rates than populations with younger individuals. If researchers compare crude mortality rates alone, they may incorrectly conclude that one population is less healthy when the difference is actually due to age rather than disease risk.
+
+For example, a retirement community is expected to have a much higher crude mortality rate than a university town because older adults have a greater likelihood of dying from chronic diseases such as heart disease, cancer, and stroke. This higher mortality does not necessarily indicate poorer healthcare or worse health outcomes. Instead, it reflects the age composition of the population. Age adjustment removes the influence of age by applying the mortality rates from each population to a common standard population.
+
+Using age-adjusted mortality rates allows epidemiologists to compare populations more accurately and determine whether observed differences are due to actual health risks rather than demographic differences. Public health agencies such as the Centers for Disease Control and Prevention (CDC) and the World Health Organization (WHO) routinely report age-adjusted mortality rates when comparing states, countries, racial and ethnic groups, or trends over time. This standardization improves the accuracy of public health surveillance and helps identify populations at greater risk for preventable diseases.
+
+Age-adjusted mortality rates also support evidence-based decision-making by allowing policymakers to evaluate the effectiveness of prevention programs and healthcare interventions. Without age adjustment, resources might be allocated based on misleading comparisons. By controlling for differences in age distribution, epidemiologists can make meaningful comparisons, monitor trends over time, and develop targeted public health policies that improve population health.
+
+# Professor's Challenge
+
+## Given Information
+
+- **Population:** 2,000,000
+- **Total deaths:** 18,000
+- **Deaths from heart disease:** 4,500
+- **Live births:** 24,000
+- **Infant deaths (\<1 year):** 120
+- **Confirmed cases of meningitis:** 600
+- **Deaths from meningitis:** 48
+
+------------------------------------------------------------------------
+
+## 1. Crude Mortality Rate (per 1,000 population)
+
+The crude mortality rate is calculated as:
+
+$$\text{Crude Mortality Rate} =
+\frac{\text{Total deaths}}{\text{Total population}}
+\times 1,000$$
+
+Substituting the values:
+
+$$\frac{18,000}{2,000,000}\times1,000
+=9$$
+
+**Answer:** The crude mortality rate is **9 deaths per 1,000 population**.
+
+------------------------------------------------------------------------
+
+## 2. Cause-Specific Mortality Rate for Heart Disease (per 100,000 population)
+
+The cause-specific mortality rate is calculated as:
+
+$$\text{Cause-Specific Mortality Rate} =
+\frac{\text{Deaths from heart disease}}{\text{Total population}}
+\times100,000$$
+
+Substituting the values:
+
+$$\frac{4,500}{2,000,000}\times100,000
+=225$$
+
+**Answer:** The heart disease mortality rate is **225 deaths per 100,000 population**.
+
+------------------------------------------------------------------------
+
+## 3. Infant Mortality Rate (per 1,000 live births)
+
+The infant mortality rate is calculated as:
+
+$$\text{Infant Mortality Rate} =
+\frac{\text{Infant deaths}}{\text{Live births}}
+\times1,000$$
+
+Substituting the values:
+
+$$\frac{120}{24,000}\times1,000
+=5$$
+
+**Answer:** The infant mortality rate is **5 deaths per 1,000 live births**.
+
+------------------------------------------------------------------------
+
+## 4. Case-Fatality Rate for Meningitis
+
+The case-fatality rate is calculated as:
+
+$$\text{Case-Fatality Rate} =
+\frac{\text{Deaths from meningitis}}{\text{Confirmed cases}}
+\times100$$
+
+Substituting the values:
+
+$$\frac{48}{600}\times100
+=8\%$$
+
+**Answer:** The case-fatality rate for meningitis is **8%**.
+
+------------------------------------------------------------------------
+
+## 5. Proportionate Mortality Due to Heart Disease
+
+The proportionate mortality is calculated as:
+
+$$\text{Proportionate Mortality} =
+\frac{\text{Deaths from heart disease}}{\text{Total deaths}}
+\times100$$
+
+Substituting the values:
+
+$$\frac{4,500}{18,000}\times100
+=25\%$$
+
+**Answer:** **25%** of all deaths were due to heart disease.
+
+------------------------------------------------------------------------
+
+## 6. Why Can Comparing Crude Mortality Rates Be Misleading?
+
+Comparing crude mortality rates alone can be misleading because populations may have very different age distributions. A country with a younger population will generally have fewer deaths, resulting in a lower crude mortality rate even if its overall health status is not better. In contrast, a country with a larger proportion of older adults is expected to have a higher crude mortality rate simply because the risk of death increases with age. Therefore, differences in crude mortality rates may reflect differences in population age structure rather than differences in healthcare quality or disease risk. Epidemiologists prefer **age-adjusted mortality rates** because they remove the effects of age and allow fair comparisons between populations.
